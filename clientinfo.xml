@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information - Taiwan Version</desc>
+	<servicetype>korea</servicetype>
+	<servertype>sakray</servertype>
+	<connection>
+		<display>SeuRO</display>
+		<desc>SeuRO</desc>
+		<balloon>1/1/1</balloon>
+		<langtype>12</langtype>
+		<version>25</version>
+		<address>127.0.0.1</address>
+		<port>6900</port>
+		<aid>
+			<admin>2000000</admin>
+		</aid>
+		<loading>
+			<image></image>
+		</loading>
+	</connection>
+	<registrationweb></registrationweb>
+</clientinfo>
